@@ -1,0 +1,1 @@
+Conducted comprehensive sales analysis for Pizza Hut using SQL, leveraging JOINs, subqueries, window functions, and CTEs to identify top-performing products, key customer segments, and revenue trends, enabling actionable business insights.
